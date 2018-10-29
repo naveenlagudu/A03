@@ -1,0 +1,5 @@
+::1 - - [28/Oct/2018:23:00:01 +0000] "GET / HTTP/1.1" 200 2259 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+::1 - - [28/Oct/2018:23:00:03 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+::1 - - [28/Oct/2018:23:00:05 +0000] "GET /profile HTTP/1.1" 200 2205 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+::1 - - [28/Oct/2018:23:00:07 +0000] "GET /contact HTTP/1.1" 200 3385 "http://localhost:8081/profile" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+::1 - - [28/Oct/2018:23:02:18 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
